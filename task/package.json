@@ -1,0 +1,20 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "app.js",
+  "type":"modules",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bhagysree/globalJs.git"
+  },
+  "author": "Bhagyasree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhagysree/globalJs/issues"
+  },
+  "homepage": "https://github.com/Bhagysree/globalJs#readme"
+}
