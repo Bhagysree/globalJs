@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "hello",
   "main": "app.js",
-  "type":"modules",
+  "type": "modules",
   "scripts": {
     "start": "node app.js"
   },
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Bhagysree/globalJs/issues"
   },
-  "homepage": "https://github.com/Bhagysree/globalJs#readme"
+  "homepage": "https://github.com/Bhagysree/globalJs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
